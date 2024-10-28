@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @TosinAdesanya23
-- 👀 I’m interested in Excel, SQL, Power BI and all things Data Analysis
+- 👀 I’m interested in Excel, SQL, Power BI, AI and all things Data Analysis
 - ⚡ Fun fact: I love to be here
